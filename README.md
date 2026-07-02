@@ -59,25 +59,6 @@ The following analyses and visualizations were performed:
 
 ---
 
-## 📁 Project Structure
-
-```
-PRODIGY_DS_04/
-│
-├── twitter_sentiment_analysis.ipynb
-├── twitter_training.csv
-├── README.md
-└── screenshots/
-    ├── sentiment_distribution.png
-    ├── top_brands.png
-    ├── brand_sentiment.png
-    ├── positive_wordcloud.png
-    ├── negative_wordcloud.png
-    └── pie_chart.png
-```
-
----
-
 ## 🚀 How to Run
 
 1. Clone this repository.
@@ -120,5 +101,3 @@ pip install pandas numpy matplotlib seaborn wordcloud scikit-learn
 This project was completed as **Task 04** during the **Data Science Internship** at **Prodigy InfoTech**.
 
 ---
-
-### ⭐ If you found this project useful, don't forget to star the repository!
